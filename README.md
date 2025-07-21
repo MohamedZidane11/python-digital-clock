@@ -2,7 +2,7 @@
 
 A sleek and minimalist desktop digital clock widget built with Python and Tkinter. Perfect for keeping track of time with a clean, modern interface that sits elegantly on your desktop.
 
-<img src="https://github.com/MohamedZidane11/python-digital-clock/blob/main/Capture8.PNG" width=850>
+<img src="https://github.com/MohamedZidane11/python-digital-clock/blob/main/Capture8.PNG" width=450>
 
 ## ✨ Features
 
